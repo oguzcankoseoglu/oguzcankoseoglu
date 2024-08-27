@@ -1,11 +1,14 @@
 ### Hi there 👋
 
-## Software Developer @Global Climate GmbH
-
 - Currently learning Java Springboot.
 - I'm expert with JavaScript and Js frameworks (Vue, React, Next, ...)
 - Checkout my codewars profile: https://www.codewars.com/users/oguzcankoseoglu
 
+----
+
+Software Developer @Global Climate GmbH
+
+----
 
 My GitHub Stats
 
